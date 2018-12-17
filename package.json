@@ -1,0 +1,14 @@
+{
+  "name": "arc",
+  "version": "1.0.0",
+  "description": "This is ARC75f",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ARC75F"
+  ],
+  "author": "prudhvi",
+  "license": "ISC"
+}
